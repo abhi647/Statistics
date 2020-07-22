@@ -1,3 +1,4 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/abhi647/Statistics/master)
 # Statistics for Python
 
 To get started thinking about statistics, consider the three famous problems
